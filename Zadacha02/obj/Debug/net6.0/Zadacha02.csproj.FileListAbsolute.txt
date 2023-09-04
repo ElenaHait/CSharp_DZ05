@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\Zadacha02.exe
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\Zadacha02.deps.json
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\Zadacha02.runtimeconfig.json
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\Zadacha02.dll
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\ref\Zadacha02.dll
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\bin\Debug\net6.0\Zadacha02.pdb
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.GlobalUsings.g.cs
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.dll
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\ref\Zadacha02.dll
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.pdb
+C:\Users\user\Desktop\Учеба ИТ\C#\Домашнее задание\C#DZ05\Zadacha02\obj\Debug\net6.0\Zadacha02.genruntimeconfig.cache
